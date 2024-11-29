@@ -1,0 +1,12 @@
+23011|General Chemistry|33|0|Prof. Bagherzadeh|Chemistry|3|1403-03-20 15:30|Sunday/Thursday 10:30-12:00|general
+23326|Organic Chemistry 1|31|0|Prof. Adeli|Chemistry|3|1403-03-20 09:00|Sunday/Thursday 7:30-9:00|specialized
+23223|Analytical Chemistry 1|40|0|Prof. Shahrokhian|Chemistry|3|1403-04-03 09:00|Sunday/Thursday 10:30-12:00|specialized
+22015|calculus 1|260|0|Prof. Jamali|Math|4|1403-03-29 15:30|Saturday/Monday 13:00-15:00|general
+22255|linear algebra|60|0|Prof. Bahreyni|Math|4|1403-03-23 09:00|Saturday/Monday 15:00-17:00|specialized
+22089|probability theory|46|0|Prof. Khazaei|Math|4|1403-04-03 09:00|Sunday/Tuesday 13:00-15:00|specialized
+44714|introduction to economics|197|0|Prof. Nili|Economics|3|1403-03-29 09:00|Sunday/Tuesday 13:30-15:00|general
+44636|game theory|50|0|Prof. Rahmati|Economics|3|1403-03-20 09:00|Saturday/Monday 15:00-17:00|specialized
+44728|macroeconomics|61|0|Prof. Mahmoud zadeh|Economics|3|1403-03-31 15:30|Sunday/Tuesday 15:00-16:30|specialized
+24011|General Physics 1|150|0|Prof. Rahvar|Physics|3|1403-03-20 15:30|Saturday/Monday 9:00-10:30|general
+24012|General Physics 2|130|0|Prof. Bahman Abadi|Physics|3|1403-03-20 15:30|Saturday/Monday 9:00-10:30|general
+24213|Electromagnetic 1|20|0|Prof. Mir kamali|Physics|3|1403-03-26 09:00|Saturday/Monday 10:30-12:00|specialized
